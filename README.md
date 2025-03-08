@@ -59,5 +59,5 @@ This integration of GenAI further enhances the interpretability and user-friendl
 ## Installation & Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/crededge.git
+   git clone https://github.com/geekyaum/crededge.git
    cd crededge
